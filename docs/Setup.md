@@ -25,7 +25,7 @@ And when you need to change the charset returned by your actions
 simply change a single line of code at class level.
 
 
-**[ [contents &uarr;](https://github.com/espresso/espresso#tutorial) ]**
+**[ [contents &uarr;](https://github.com/dangerousbeans/espresso#tutorial) ]**
 
 
 ## Setup by Name
@@ -70,13 +70,13 @@ class App < E
 end
 ```
 
-**[ [contents &uarr;](https://github.com/espresso/espresso#tutorial) ]**
+**[ [contents &uarr;](https://github.com/dangerousbeans/espresso#tutorial) ]**
 
 
 ## Setup by Format
 
 
-[Format](https://github.com/espresso/espresso/blob/master/docs/Routing.md#format) is a part of routing mechanism
+[Format](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#format) is a part of routing mechanism
 but it is also hugely used when it comes to setup actions.
 
 It turns out that setting up actions by name and regular expressions are not enough.
@@ -204,7 +204,7 @@ end
 ```
 
 
-**[ [contents &uarr;](https://github.com/espresso/espresso#tutorial) ]**
+**[ [contents &uarr;](https://github.com/dangerousbeans/espresso#tutorial) ]**
 
 
 ## Remote Setup
@@ -282,5 +282,5 @@ app.run
 Please note that **#mount should always go after #global_setup**,
 otherwise global setup will have no effect.
 
-**[ [contents &uarr;](https://github.com/espresso/espresso#tutorial) ]**
+**[ [contents &uarr;](https://github.com/dangerousbeans/espresso#tutorial) ]**
 

@@ -1,19 +1,19 @@
 
 + 0.4.7 [May 25 2013]
-  - `on_boot` hook for applications - [543e032](https://github.com/espresso/espresso/commit/543e032)
-  - Allow controllers to mount sub-controllers - [203c314](https://github.com/espresso/espresso/commit/203c314)
+  - `on_boot` hook for applications - [543e032](https://github.com/dangerousbeans/espresso/commit/543e032)
+  - Allow controllers to mount sub-controllers - [203c314](https://github.com/dangerousbeans/espresso/commit/203c314)
   - Canonicals can not be passed at mounting anymore.
-  - `evented_stream` and `chunked_stream` helpers - [aebc298](https://github.com/espresso/espresso/commit/aebc298)
-  - `styled_halt` helper - [5eeb404190](https://github.com/espresso/espresso/commit/5eeb404190)
-  - `mapped?` helper - [d0ee33729](https://github.com/espresso/espresso/commit/d0ee33729)
+  - `evented_stream` and `chunked_stream` helpers - [aebc298](https://github.com/dangerousbeans/espresso/commit/aebc298)
+  - `styled_halt` helper - [5eeb404190](https://github.com/dangerousbeans/espresso/commit/5eeb404190)
+  - `mapped?` helper - [d0ee33729](https://github.com/dangerousbeans/espresso/commit/d0ee33729)
   - `view_path_proxy` helper renamed into `explicit_view_path`
 
 <hr>
 
 + 0.4.6 [Apr 25 2013]
-  - Added token based authorization - [1beb5db](https://github.com/espresso/espresso/commit/1beb5db)
-  - Respond only to requests originating on known hosts - [f2d1027](https://github.com/espresso/espresso/commit/f2d10)
-  - Allow mounting of any Rack application - [bb3ff2](https://github.com/espresso/espresso/commit/bb3ff2)
+  - Added token based authorization - [1beb5db](https://github.com/dangerousbeans/espresso/commit/1beb5db)
+  - Respond only to requests originating on known hosts - [f2d1027](https://github.com/dangerousbeans/espresso/commit/f2d10)
+  - Allow mounting of any Rack application - [bb3ff2](https://github.com/dangerousbeans/espresso/commit/bb3ff2)
 
 <hr>
 
@@ -26,25 +26,25 @@
 <hr>
 
 + 0.4.3 [March 20 2013]
-  - View compiler enabled by default - [2baaf2](https://github.com/espresso/espresso/commit/2baaf2)
-  - Rabl support added - [f65a37bb059](https://github.com/espresso/espresso/commit/f65a37bb059)
+  - View compiler enabled by default - [2baaf2](https://github.com/dangerousbeans/espresso/commit/2baaf2)
+  - Rabl support added - [f65a37bb059](https://github.com/dangerousbeans/espresso/commit/f65a37bb059)
 
 <hr>
 
 + 0.4.2 [March 11 2013]
   - Generator moved to a standalone gem - [Enginery](https://github.com/espresso/enginery)
-  - helpers are now included via `helper` method - [ab2063461](https://github.com/espresso/espresso/commit/ab2063461)
-  - `link_to` helper [db51c839](https://github.com/espresso/espresso/commit/db51c839cf2e1165bceb5d394b3706e53c59f0b4)
-  - make index action to serve /index URL [fb763c64](https://github.com/espresso/espresso/commit/fb763c644092577627321a0d672e3cc060f9c9cf)
-  - Added `reject_automount!` for controllers that should not be mounted at automount [f5ce4723a](https://github.com/espresso/espresso/commit/f5ce4723a)
-  - Fixed RDoc generation on Ruby 2.0.0 - [0ad4bbe951](https://github.com/espresso/espresso/commit/0ad4bbe951)
-  - trap INT and TERM signals to gracefully stop web server - [fcbebf974](https://github.com/espresso/espresso/commit/fcbebf9740a49065b31ad8d65dcc0d31cf80247b)
+  - helpers are now included via `helper` method - [ab2063461](https://github.com/dangerousbeans/espresso/commit/ab2063461)
+  - `link_to` helper [db51c839](https://github.com/dangerousbeans/espresso/commit/db51c839cf2e1165bceb5d394b3706e53c59f0b4)
+  - make index action to serve /index URL [fb763c64](https://github.com/dangerousbeans/espresso/commit/fb763c644092577627321a0d672e3cc060f9c9cf)
+  - Added `reject_automount!` for controllers that should not be mounted at automount [f5ce4723a](https://github.com/dangerousbeans/espresso/commit/f5ce4723a)
+  - Fixed RDoc generation on Ruby 2.0.0 - [0ad4bbe951](https://github.com/dangerousbeans/espresso/commit/0ad4bbe951)
+  - trap INT and TERM signals to gracefully stop web server - [fcbebf974](https://github.com/dangerousbeans/espresso/commit/fcbebf9740a49065b31ad8d65dcc0d31cf80247b)
 
 <hr>
 
 + 0.4.1 [Feb 18 2013]
-  - support for various streaming backends - [bd844acf](https://github.com/espresso/espresso/commit/bd844acf)
-  - added transfer_encoding setup - [e6f4805f4](https://github.com/espresso/espresso/commit/e6f4805f478050df9a7a1206e7ed8ae9b94da039)
+  - support for various streaming backends - [bd844acf](https://github.com/dangerousbeans/espresso/commit/bd844acf)
+  - added transfer_encoding setup - [e6f4805f4](https://github.com/dangerousbeans/espresso/commit/e6f4805f478050df9a7a1206e7ed8ae9b94da039)
 
 <hr>
 

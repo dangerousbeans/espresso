@@ -2,9 +2,6 @@
 <a href="http://espresso.github.com/">
 <img src="http://espresso.github.com/images/logo.png" align="right" /></a>
 
-<a href="https://travis-ci.org/dangerousbeans/espresso">
-<img src="https://travis-ci.org/dangerousbeans/espresso.png" ></a>
-
 ### [Espresso Framework](http://espresso.github.com)
 
 ### Scalable Web Framework aimed at Speed and Simplicity

@@ -52,10 +52,10 @@ $ ruby app.rb # or rackup
 ### Intro
 
 [Actions](/docs/Intro.md#actions) |
-[Controllers](https://github.com/dangerousbeans/espresso/blob/master/docs/Intro.md#controllers) |
-[Slices](https://github.com/dangerousbeans/espresso/blob/master/docs/Intro.md#slices) |
-[MVC?](https://github.com/dangerousbeans/espresso/blob/master/docs/Intro.md#mvc) |
-[Models?](https://github.com/dangerousbeans/espresso/blob/master/docs/Intro.md#models)
+[Controllers](/docs/Intro.md#controllers) |
+[Slices](/docs/Intro.md#slices) |
+[MVC?](/docs/Intro.md#mvc) |
+[Models?](/docs/Intro.md#models)
 
 ### Routing
 

@@ -59,74 +59,74 @@ $ ruby app.rb # or rackup
 
 ### Routing
 
-[Base URL](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#base-url) |
-[Canonicals](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#canonicals) |
-[Actions](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#actions) |
-[Action Mapping](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#action-mapping) |
-[Action Aliases](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#action-aliases) |
-[Shared Actions](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#shared-actions)
+[Base URL](/docs/Routing.md#base-url) |
+[Canonicals](/docs/Routing.md#canonicals) |
+[Actions](/docs/Routing.md#actions) |
+[Action Mapping](/docs/Routing.md#action-mapping) |
+[Action Aliases](/docs/Routing.md#action-aliases) |
+[Shared Actions](/docs/Routing.md#shared-actions)
 <br>
-[Parametrization](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#parametrization) |
-[Format](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#format) |
-[RESTful Actions](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#restful-actions) |
-[Hosts](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#hosts) |
-[Rewriter](https://github.com/dangerousbeans/espresso/blob/master/docs/Routing.md#rewriter)
+[Parametrization](/docs/Routing.md#parametrization) |
+[Format](/docs/Routing.md#format) |
+[RESTful Actions](/docs/Routing.md#restful-actions) |
+[Hosts](/docs/Routing.md#hosts) |
+[Rewriter](/docs/Routing.md#rewriter)
 
 
 ### Setup
 
-[Global Setup](https://github.com/dangerousbeans/espresso/blob/master/docs/Setup.md#global-setup) |
-[Setup by Name](https://github.com/dangerousbeans/espresso/blob/master/docs/Setup.md#setup-by-name) |
-[Setup by Format](https://github.com/dangerousbeans/espresso/blob/master/docs/Setup.md#setup-by-format) |
-[Remote Setup](https://github.com/dangerousbeans/espresso/blob/master/docs/Setup.md#remote-setup)
+[Global Setup](/docs/Setup.md#global-setup) |
+[Setup by Name](/docs/Setup.md#setup-by-name) |
+[Setup by Format](/docs/Setup.md#setup-by-format) |
+[Remote Setup](/docs/Setup.md#remote-setup)
 
 ### Workflow
 
-[Route](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#route) |
-[Params](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#params) |
-[Passing Control](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#passing-control) |
-[Fetching Body](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#fetching-body) |
-[Halt](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#halt) |
-[Redirect](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#redirect) |
-[Reload](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#reload) |
-[Error Handlers](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#error-handlers) |
-[Hooks](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#hooks) |
-[Authorization](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#authorization) |
-[Sessions](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#sessions) |
-[Flash](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#flash) |
-[Cookies](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#cookies) |
-[Content Type](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#content-type) |
-[Charset](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#charset) |
-[Cache Control](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#cache-control) |
-[Expires](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#expires) |
-[Last Modified](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#last-modified) |
-[Accepted Content Type](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#accepted-content-type) |
-[Send File](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#send-file) |
-[Send Files](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#send-files) |
-[Attachment](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#attachment) |
-[Headers](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#headers) |
-[Helpers](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#helpers) |
+[Route](/docs/Workflow.md#route) |
+[Params](/docs/Workflow.md#params) |
+[Passing Control](/docs/Workflow.md#passing-control) |
+[Fetching Body](/docs/Workflow.md#fetching-body) |
+[Halt](/docs/Workflow.md#halt) |
+[Redirect](/docs/Workflow.md#redirect) |
+[Reload](/docs/Workflow.md#reload) |
+[Error Handlers](/docs/Workflow.md#error-handlers) |
+[Hooks](/docs/Workflow.md#hooks) |
+[Authorization](/docs/Workflow.md#authorization) |
+[Sessions](/docs/Workflow.md#sessions) |
+[Flash](/docs/Workflow.md#flash) |
+[Cookies](/docs/Workflow.md#cookies) |
+[Content Type](/docs/Workflow.md#content-type) |
+[Charset](/docs/Workflow.md#charset) |
+[Cache Control](/docs/Workflow.md#cache-control) |
+[Expires](/docs/Workflow.md#expires) |
+[Last Modified](/docs/Workflow.md#last-modified) |
+[Accepted Content Type](/docs/Workflow.md#accepted-content-type) |
+[Send File](/docs/Workflow.md#send-file) |
+[Send Files](/docs/Workflow.md#send-files) |
+[Attachment](/docs/Workflow.md#attachment) |
+[Headers](/docs/Workflow.md#headers) |
+[Helpers](/docs/Workflow.md#helpers) |
 
 
 ### View API
 
-[Engine](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#engine) |
-[Extension](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#extension) |
-[Templates Path](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#templates-path) |
-[Layouts Path](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#layouts-path) |
-[Layout](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#layout)
+[Engine](/docs/ViewAPI.md#engine) |
+[Extension](/docs/ViewAPI.md#extension) |
+[Templates Path](/docs/ViewAPI.md#templates-path) |
+[Layouts Path](/docs/ViewAPI.md#layouts-path) |
+[Layout](/docs/ViewAPI.md#layout)
 <br>
-[Rendering Templates](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#rendering-templates) |
-[Rendering Layouts](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#rendering-layouts) |
-[Ad hoc Rendering](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#ad-hoc-rendering) |
-[Path Resolver](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#path-resolver) |
-[Templates Compilation](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#templates-compilation)
+[Rendering Templates](/docs/ViewAPI.md#rendering-templates) |
+[Rendering Layouts](/docs/ViewAPI.md#rendering-layouts) |
+[Ad hoc Rendering](/docs/ViewAPI.md#ad-hoc-rendering) |
+[Path Resolver](/docs/ViewAPI.md#path-resolver) |
+[Templates Compilation](/docs/ViewAPI.md#templates-compilation)
 
 ### Streaming
 
-[Server-Sent Events](https://github.com/dangerousbeans/espresso/blob/master/docs/Streaming.md#server-sent-events) |
-[WebSockets](https://github.com/dangerousbeans/espresso/blob/master/docs/Streaming.md#websockets) |
-[Chunked Responses](https://github.com/dangerousbeans/espresso/blob/master/docs/Streaming.md#chunked-responses)
+[Server-Sent Events](/docs/Streaming.md#server-sent-events) |
+[WebSockets](/docs/Streaming.md#websockets) |
+[Chunked Responses](/docs/Streaming.md#chunked-responses)
 
 
 ### Espresso Lungo
@@ -161,12 +161,12 @@ Functionality added by `Espresso Lungo`:
 
 ### Deploy
 
-[Controllers](https://github.com/dangerousbeans/espresso/blob/master/docs/Deploy.md#controllers) |
-[Slices](https://github.com/dangerousbeans/espresso/blob/master/docs/Deploy.md#slices) |
-[Roots](https://github.com/dangerousbeans/espresso/blob/master/docs/Deploy.md#roots) |
-[Arbitrary Applications](https://github.com/dangerousbeans/espresso/blob/master/docs/Deploy.md#arbitrary-applications) |
-[Run](https://github.com/dangerousbeans/espresso/blob/master/docs/Deploy.md#run) |
-[config.ru](https://github.com/dangerousbeans/espresso/blob/master/docs/Deploy.md#configru)
+[Controllers](/docs/Deploy.md#controllers) |
+[Slices](/docs/Deploy.md#slices) |
+[Roots](/docs/Deploy.md#roots) |
+[Arbitrary Applications](/docs/Deploy.md#arbitrary-applications) |
+[Run](/docs/Deploy.md#run) |
+[config.ru](/docs/Deploy.md#configru)
 
 
 <hr/>
@@ -236,18 +236,18 @@ you should write actions that takes  insignificant amount of time.
 
 Only after that it make sense to think about framework speed.
 
-**Worth to Note** - Espresso has built-in [cache manager](https://github.com/dangerousbeans/espresso/blob/master/docs/Workflow.md#cache-manager)
-as well as [views compiler](https://github.com/dangerousbeans/espresso/blob/master/docs/ViewAPI.md#templates-compilation).
+**Worth to Note** - Espresso has built-in [cache manager](/docs/Workflow.md#cache-manager)
+as well as [views compiler](/docs/ViewAPI.md#templates-compilation).
 
 These tools may help you to dramatically reduce the time consumed by your actions.
 
 Natural Action/Routes/Params
 ---
 
-I never understood why should i create actions in some file,
-then open another file and directing requests to created action.<br>
-Even worse! To use params inside action, i have to remember how i named them in another file.
-And when i want to change a param name i have to change it in both files?
+I never understood why should I create actions in some file,
+then open another file and direct requests to created actions.<br>
+Even worse! To use params inside of actions, I have to remember how I named them in another file.
+And when I want to change a param name I have to change it in both files?
 
 What about consistency?<br>
 

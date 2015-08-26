@@ -1,3 +1,4 @@
+
 ## Actions
 
 The cornerstone of any Espresso app.
@@ -72,9 +73,9 @@ class Pages < E
 end
 ```
 
-That's it, controllers are usual Ruby classes with inheritance from `E` class.
+That's it, controllers are the usual Ruby classes with inheritance from the `E` class.
 
-**[ [contents &uarr;](https://github.com/dangerousbeans/espresso#tutorial) ]**
+**[ [contents &uarr;](../README.md) ]**
 
 
 ## Slices

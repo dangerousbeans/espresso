@@ -51,7 +51,7 @@ $ ruby app.rb # or rackup
 
 ### Intro
 
-[Actions](https://github.com/dangerousbeans/espresso/blob/master/docs/Intro.md#actions) |
+[Actions](/docs/Intro.md#actions) |
 [Controllers](https://github.com/dangerousbeans/espresso/blob/master/docs/Intro.md#controllers) |
 [Slices](https://github.com/dangerousbeans/espresso/blob/master/docs/Intro.md#slices) |
 [MVC?](https://github.com/dangerousbeans/espresso/blob/master/docs/Intro.md#mvc) |

@@ -2,9 +2,9 @@
 
 The cornerstone of any Espresso app.
 
-Namely, actions are the workhorses that creates the routes to be served by app, as well as running our code.
+Namely, actions are the workhorses that create the routes to be served by the app, as well as running our code.
 
-If we need user to see "Hello World!" when he visits "/hello" address in the browser, we simply do like this:
+If we need the user to see "Hello World!" when they visit "/hello" address in the browser, we simply do this:
 
 ```ruby
 def hello
@@ -12,7 +12,7 @@ def hello
 end
 ```
 
-It is really straightforward to define actions in Espresso cause they are usual Ruby methods.
+It is really straightforward to define actions in Espresso because they are the usual Ruby methods.
 
 **Worth to note** that actions can be shared between controllers by using modules:
 
@@ -42,11 +42,11 @@ end
 
 A controller is meant to organize and setup actions.
 
-The basic setup is base URL. It is defaulted to the controller's underscored name and are used by all actions.
+The basic setup is base URL. It is defaulted to the controller's underscored name and used by all actions.
 
 Other setups are action-specific and can be set for N or for all actions.<br/>
-To define a setup for all actions, simply call appropriate method at controller's class level.<br/>
-To setup specific actions, call appropriate methods inside `setup` proc that will accept action names as arguments.<br/>
+To define a setup for all actions, simply call the appropriate method in the controller's class level.<br/>
+To setup specific actions, call the appropriate methods inside `setup` proc that will accept action names as arguments.<br/>
 Action names can also be given as regular expressions.
 
 **Example:** - Creating a controller that will serve "/pages/latest" and "/pages/rss" URLs
